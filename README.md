@@ -2,6 +2,8 @@
 
 Descomplicando as siglas e termos de tecnologia.
 
+**Deploy**: Deploy é o processo de colocar um software em um ambiente específico, como de teste ou produção.
+
 ## Arquitetura
 
 **Arquitetura Limpa (Clean Architecture)**: Prega a ideia da arquitetura hexagonal, não tendo acesso as regras de negócio, mas tendo camadas que tenham responsabilidades definidas para acessar as regras de negócio.
