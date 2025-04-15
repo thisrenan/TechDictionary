@@ -4,6 +4,8 @@ Descomplicando as siglas e termos de tecnologia.
 
 **Deploy**: Deploy é o processo de colocar um software em um ambiente específico, como de teste ou produção.
 
+**POO**: POO é a sigla para Programação Orientada a Objetos, um paradigma de programação que se baseia na criação de objetos. A POO é uma forma de organizar e escrever software, aproximando o mundo virtual do mundo real.
+
 ## Arquitetura
 
 **Arquitetura Limpa (Clean Architecture)**: Prega a ideia da arquitetura hexagonal, não tendo acesso as regras de negócio, mas tendo camadas que tenham responsabilidades definidas para acessar as regras de negócio.
