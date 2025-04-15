@@ -8,11 +8,7 @@ Descomplicando as siglas e termos de tecnologia.
 
 **API**: é a sigla em inglês para Application Programming Interface, que significa Interface de Programação de Aplicações. É um conjunto de regras e padrões que permitem que diferentes aplicativos se comuniquem e compartilhem dados.
 
-## Arquitetura
-
-**Arquitetura Limpa (Clean Architecture)**: Prega a ideia da arquitetura hexagonal, não tendo acesso as regras de negócio, mas tendo camadas que tenham responsabilidades definidas para acessar as regras de negócio.
-
-**Arquitetura Hexagonal**: Isolar o conceito da sua aplicação, isolar regra de negócio, isolar domínio, onde de um lado adaptadores fazem requisições e de outro lado adaptadores fazem consultas em banco/api externa.
+**SOLID**: SOLID é um acrônimo mnemônico que relaciona um tópico de boas práticas de programação a cada letra. A aplicação desses princípios tem por objetivo deixar o projeto mais coeso, reaproveitável e torna a sua manutenção mais simples.
 
 **TDD (Test Driven Development)**: Desenvolvimento baseado em testes.
 
@@ -21,6 +17,12 @@ Descomplicando as siglas e termos de tecnologia.
 **CSR (Client Side Rendering)**: Renderização no navegador do cliente.
 
 **Deploy Blue/Green**: Ao fazer deploy de uma nova versão, o trafego só é redirecionado a nova versão quando o healthcheck sinaliza ok, caso o healthcheck não dê o ok o tráfego é mantido na versão anterior.
+
+## Arquitetura
+
+**Arquitetura Limpa (Clean Architecture)**: Prega a ideia da arquitetura hexagonal, não tendo acesso as regras de negócio, mas tendo camadas que tenham responsabilidades definidas para acessar as regras de negócio.
+
+**Arquitetura Hexagonal**: Isolar o conceito da sua aplicação, isolar regra de negócio, isolar domínio, onde de um lado adaptadores fazem requisições e de outro lado adaptadores fazem consultas em banco/api externa.
 
 **Microsserviço Autônomo**: microsservice independente, continua rodando mesmo que outros serviços caem (normalmente utilizado com mensageria e com cópia em banco de dados próprio pra não consultar outro serviço pra buscar dados - comum a replicação de dados "dados duplicados" mas só com os dados que o microsserviço precisa).
 
