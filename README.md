@@ -2,23 +2,23 @@
 
 Descomplicando as siglas e termos de tecnologia.
 
-**Deploy**: Deploy é o processo de colocar um software em um ambiente específico, como de teste ou produção.
+**Deploy**: Processo de colocar um software em um ambiente específico, como de teste ou produção.
 
-**PO (Product Owner)**: Um Product Owner (PO) é uma figura que transformar as necessidades do cliente em objetivos claros para as equipes técnicas do projeto.
+**PO (Product Owner)**: Um Product Owner é uma figura que transformar as necessidades do cliente em objetivos claros para as equipes técnicas do projeto.
 
-**POO**: É a sigla para Programação Orientada a Objetos, um paradigma de programação que se baseia na criação de objetos. A POO é uma forma de organizar e escrever software, aproximando o mundo virtual do mundo real.
+**POO**: Sigla para Programação Orientada a Objetos, um paradigma de programação que se baseia na criação de objetos. A POO é uma forma de organizar e escrever software, aproximando o mundo virtual do mundo real.
 
-**Metodologias ágeis**: É uma forma de gerir projetos que prioriza a flexibilidade, a colaboração e a entrega contínua de valor.
+**Metodologias ágeis**: Forma de gerir projetos que prioriza a flexibilidade, a colaboração e a entrega contínua de valor.
 
-**API**: É a sigla em inglês para Application Programming Interface, que significa Interface de Programação de Aplicações. É um conjunto de regras e padrões que permitem que diferentes aplicativos se comuniquem e compartilhem dados.
+**API**: Sigla em inglês para Application Programming Interface, que significa Interface de Programação de Aplicações. É um conjunto de regras e padrões que permitem que diferentes aplicativos se comuniquem e compartilhem dados.
 
-**SOLID**: SOLID é um acrônimo mnemônico que relaciona um tópico de boas práticas de programação a cada letra. A aplicação desses princípios tem por objetivo deixar o projeto mais coeso, reaproveitável e torna a sua manutenção mais simples.
+**SOLID**: Acrônimo mnemônico que relaciona um tópico de boas práticas de programação a cada letra. A aplicação desses princípios tem por objetivo deixar o projeto mais coeso, reaproveitável e torna a sua manutenção mais simples.
 
 **TDD (Test Driven Development)**: Desenvolvimento baseado em testes.
 
-**SSR (Server Side Rendering)**: Ao acessar sua aplicação, todo o javascript que é processado no navegador é processada no servidor e o navegador recebe todo o resultado já renderizado.
+**SSR (Server Side Rendering)**: Formato de renderização na qual o javascript é processado no servidor e o navegador recebe todo o resultado já renderizado.
 
-**CSR (Client Side Rendering)**: Renderização no navegador do cliente.
+**CSR (Client Side Rendering)**: Formato de renderização na qual o javascript é renderizado no navegador do cliente.
 
 **Deploy Blue/Green**: Ao fazer deploy de uma nova versão, o trafego só é redirecionado a nova versão quando o healthcheck sinaliza ok, caso o healthcheck não dê o ok o tráfego é mantido na versão anterior.
 
