@@ -4,9 +4,11 @@ Descomplicando as siglas e termos de tecnologia.
 
 **Deploy**: Deploy é o processo de colocar um software em um ambiente específico, como de teste ou produção.
 
-**POO**: POO é a sigla para Programação Orientada a Objetos, um paradigma de programação que se baseia na criação de objetos. A POO é uma forma de organizar e escrever software, aproximando o mundo virtual do mundo real.
+**PO (Product Owner)**: Um Product Owner (PO) é uma figura que transformar as necessidades do cliente em objetivos claros para as equipes técnicas do projeto.
 
-**API**: é a sigla em inglês para Application Programming Interface, que significa Interface de Programação de Aplicações. É um conjunto de regras e padrões que permitem que diferentes aplicativos se comuniquem e compartilhem dados.
+**POO**: É a sigla para Programação Orientada a Objetos, um paradigma de programação que se baseia na criação de objetos. A POO é uma forma de organizar e escrever software, aproximando o mundo virtual do mundo real.
+
+**API**: É a sigla em inglês para Application Programming Interface, que significa Interface de Programação de Aplicações. É um conjunto de regras e padrões que permitem que diferentes aplicativos se comuniquem e compartilhem dados.
 
 **SOLID**: SOLID é um acrônimo mnemônico que relaciona um tópico de boas práticas de programação a cada letra. A aplicação desses princípios tem por objetivo deixar o projeto mais coeso, reaproveitável e torna a sua manutenção mais simples.
 
