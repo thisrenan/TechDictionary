@@ -13,7 +13,9 @@ Descomplicando as siglas e termos de tecnologia.
 
 **POO**: Sigla para Programação Orientada a Objetos, um paradigma de programação que se baseia na criação de objetos. A POO é uma forma de organizar e escrever software, aproximando o mundo virtual do mundo real.
 
-**Rest (Representational State Transfer)**: É um modelo de arquitetura de software que define padrões para a comunicação entre sistemas da web.
+**REST (Representational State Transfer)**: É um modelo de arquitetura de software que define padrões para a comunicação entre sistemas da web. Utilização semântica dos métodos HTTP (GET, POST, PUT e DELETE), leveza dos pacotes de dados transmitidos na rede, simplicidade, interações stateless e cacheabilidade das respostas.
+
+**SOAP (Simple Object Access Protocol)**: É um protocolo padrão que permite a comunicação entre aplicações desenvolvidas em diferentes linguagens e plataformas, é baseado em XML e é usado para implementar serviços web, é transportado principalmente via HTTP, mas também pode ser transportado via outros protocolos, como SMTP e FTP.
 
 **SSG (Static Site Generation) ou Pré-Render**: É um formato de renderização em que as páginas da aplicação são renderizadas na fase de build da aplicação e com isso, é possível usar qualquer servidor de páginas estáticas (Vercel, Netlify, Github Pages...) para disponibilizar seu conteúdo.
 
