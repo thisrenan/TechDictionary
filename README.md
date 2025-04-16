@@ -2,27 +2,35 @@
 
 Descomplicando as siglas e termos de tecnologia.
 
-**Deploy**: Processo de colocar um software em um ambiente específico, como de teste ou produção.
-
-**PO (Product Owner)**: É o profissional que transformar as necessidades do cliente em objetivos claros para as equipes técnicas do projeto.
-
-**PM (Product Manager)**: É o profissional que gerencia produtos, desde a concepção até a entrega ao cliente. Ele é responsável por definir a estratégia do produto, considerando as necessidades do usuário, os objetivos da empresa e a viabilidade técnica.
+## Dev
 
 **POO**: Sigla para Programação Orientada a Objetos, um paradigma de programação que se baseia na criação de objetos. A POO é uma forma de organizar e escrever software, aproximando o mundo virtual do mundo real.
 
-**Metodologias ágeis**: Forma de gerir projetos que prioriza a flexibilidade, a colaboração e a entrega contínua de valor.
-
 **API**: Sigla em inglês para Application Programming Interface, que significa Interface de Programação de Aplicações. É um conjunto de regras e padrões que permitem que diferentes aplicativos se comuniquem e compartilhem dados.
 
-**SOLID**: Acrônimo mnemônico que relaciona um tópico de boas práticas de programação a cada letra. A aplicação desses princípios tem por objetivo deixar o projeto mais coeso, reaproveitável e torna a sua manutenção mais simples.
-
 **TDD (Test Driven Development)**: Desenvolvimento baseado em testes.
+
+**DDD (Domain-Driven Design)**: É uma abordagem de desenvolvimento de software que coloca o foco no entendimento profundo de negócios. Em vez de começar pelo código ou pela tecnologia, prioriza-se a compreensão de regras, processos e conceitos da empresa que a aplicação é destinada a atender.
 
 **SSR (Server Side Rendering)**: Formato de renderização na qual o javascript é processado no servidor e o navegador recebe todo o resultado já renderizado.
 
 **CSR (Client Side Rendering)**: Formato de renderização na qual o javascript é renderizado no navegador do cliente.
 
 **SSG (Static Site Generation) ou Pré-Render**: É um formato de renderização em que as páginas da aplicação são renderizadas na fase de build da aplicação e com isso, é possível usar qualquer servidor de páginas estáticas (Vercel, Netlify, Github Pages...) para disponibilizar seu conteúdo.
+
+## Produtos
+
+**PO (Product Owner)**: É o profissional que transformar as necessidades do cliente em objetivos claros para as equipes técnicas do projeto.
+
+**PM (Product Manager)**: É o profissional que gerencia produtos, desde a concepção até a entrega ao cliente. Ele é responsável por definir a estratégia do produto, considerando as necessidades do usuário, os objetivos da empresa e a viabilidade técnica.
+
+**Metodologias ágeis**: Forma de gerir projetos que prioriza a flexibilidade, a colaboração e a entrega contínua de valor.
+
+## Devops
+
+**Deploy**: Processo de colocar um software em um ambiente específico, como de teste ou produção.
+
+**SOLID**: Acrônimo mnemônico que relaciona um tópico de boas práticas de programação a cada letra. A aplicação desses princípios tem por objetivo deixar o projeto mais coeso, reaproveitável e torna a sua manutenção mais simples.
 
 **Healthcheck**: Verificação de integridade de aplicações.
 
@@ -44,8 +52,6 @@ Exemplo: microsservico 1 manda mensagem para microsservico 2 que está offline, 
 **CQRS (Command Query Responsibility Segregation)**: Separação da leitura da escrita - utilizado para trabalhar com banco de dados de leitura separado do banco de dados de escrita.
 
 **Event Sourcing**: Se eu tenho um cliente Renan e altero para Renan Augusto eu não vou consegui ver que antes era Renan, então com event sourcing eu posso ter um histórico de tudo que ocorreu (log) para saber que antes o cliente se chamava renan.
-
-**DDD (Domain-Driven Design)**: É uma abordagem de desenvolvimento de software que coloca o foco no entendimento profundo de negócios. Em vez de começar pelo código ou pela tecnologia, prioriza-se a compreensão de regras, processos e conceitos da empresa que a aplicação é destinada a atender.
 
 
 ## Mensageria
