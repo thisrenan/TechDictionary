@@ -22,7 +22,9 @@ Descomplicando as siglas e termos de tecnologia.
 
 **SSG (Static Site Generation) ou Pré-Render**: É um formato de renderização em que as páginas da aplicação são renderizadas na fase de build da aplicação e com isso, é possível usar qualquer servidor de páginas estáticas (Vercel, Netlify, Github Pages...) para disponibilizar seu conteúdo.
 
-**Deploy Blue/Green**: Ao fazer deploy de uma nova versão, o trafego só é redirecionado a nova versão quando o healthcheck sinaliza ok, caso o healthcheck não dê o ok o tráfego é mantido na versão anterior.
+**Healthcheck**: Verificação de integridade de aplicações.
+
+**Deploy Blue/Green**: Ao fazer deploy de uma nova versão, o trafego só é redirecionado a nova versão quando o healthcheck está íntegro, caso o healthcheck não dê o ok o tráfego é mantido na versão anterior.
 
 ## Arquitetura
 
