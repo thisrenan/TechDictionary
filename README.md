@@ -13,6 +13,8 @@ Descomplicando as siglas e termos de tecnologia.
 
 **HTTP (Hypertext Transfer Protocol**: é a base da comunicação na internet e é executado no topo de outras camadas da pilha de protocolos de rede. Ele depende de outros dois protocolos de rede: TCP (Transmission Control Protocol) e IP (Internet Protocol), permite que os usuários vejam o conteúdo e os dados de um site, funciona no modelo computacional cliente-servidor, é usado para buscar recursos como arquivos HTML.
 
+**HTTPS ((Hypertext Transfer Protocol Secure)**: é um protocolo de segurança que protege a comunicação entre um navegador e um site. Ele é uma versão mais segura do HTTP
+
 **POO**: Sigla para Programação Orientada a Objetos, um paradigma de programação que se baseia na criação de objetos. A POO é uma forma de organizar e escrever software, aproximando o mundo virtual do mundo real.
 
 **REST (Representational State Transfer)**: É um modelo de arquitetura de software que define padrões para a comunicação entre sistemas da web. Utilização semântica dos métodos HTTP (GET, POST, PUT e DELETE), leveza dos pacotes de dados transmitidos na rede, simplicidade, interações stateless e cacheabilidade das respostas.
