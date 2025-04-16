@@ -13,6 +13,8 @@ Descomplicando as siglas e termos de tecnologia.
 
 **POO**: Sigla para Programação Orientada a Objetos, um paradigma de programação que se baseia na criação de objetos. A POO é uma forma de organizar e escrever software, aproximando o mundo virtual do mundo real.
 
+**Rest (Representational State Transfer)**: É um modelo de arquitetura de software que define padrões para a comunicação entre sistemas da web.
+
 **SSG (Static Site Generation) ou Pré-Render**: É um formato de renderização em que as páginas da aplicação são renderizadas na fase de build da aplicação e com isso, é possível usar qualquer servidor de páginas estáticas (Vercel, Netlify, Github Pages...) para disponibilizar seu conteúdo.
 
 **SSR (Server Side Rendering)**: Formato de renderização na qual o javascript é processado no servidor e o navegador recebe todo o resultado já renderizado.
