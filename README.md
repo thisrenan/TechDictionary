@@ -4,7 +4,9 @@ Descomplicando as siglas e termos de tecnologia.
 
 **Deploy**: Processo de colocar um software em um ambiente específico, como de teste ou produção.
 
-**PO (Product Owner)**: Um Product Owner é uma figura que transformar as necessidades do cliente em objetivos claros para as equipes técnicas do projeto.
+**PO (Product Owner)**: É o profissional que transformar as necessidades do cliente em objetivos claros para as equipes técnicas do projeto.
+
+**PM (Product Manager)**: É o profissional que gerencia produtos, desde a concepção até a entrega ao cliente. Ele é responsável por definir a estratégia do produto, considerando as necessidades do usuário, os objetivos da empresa e a viabilidade técnica.
 
 **POO**: Sigla para Programação Orientada a Objetos, um paradigma de programação que se baseia na criação de objetos. A POO é uma forma de organizar e escrever software, aproximando o mundo virtual do mundo real.
 
