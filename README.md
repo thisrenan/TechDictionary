@@ -53,6 +53,8 @@ Descomplicando as siglas e termos de tecnologia.
 
 **PMO (Escritório de Gerenciamento de Projetos)**: Refere-se ao escritório de gerenciamento de projetos, uma estrutura que padroniza processos de gestão de projetos.
 
+**PMP (Project Management Professional)**: É a certificação profissional reconhecida pelo PMI para gestores de projetos.
+
 **Stakeholders**: Pessoas, empresas, patrocinadores, organizações executoras e o público (população), que estejam ativamente envolvidas no projeto ou que  possam ser afetados de forma positiva ou negativa pela execução ou término do projeto. Os stakeholders podem ter influência sobre o projeto e suas entregas.
 
 
