@@ -49,6 +49,8 @@ Descomplicando as siglas e termos de tecnologia.
 
 **EAP (Estrutura Analítica do Projeto)**: é o detalhamento hierárquico do escopo do projeto a ser executado. Consiste em identificar todas as atividades que serão feitas e esquematizar a relação entre as mesmas de modo a representar o projeto como um todo, desde o seu objetivo final até as tarefas mais básicas.
 
+**Go Live**: é quando um produto ou sistema se torna disponível ao público, seria a data de entrada em produção do sistema desenvolvido.
+
 **PMBOK (Project Management Body of Knowledge)**: é um guia que define as melhores práticas de gerenciamento de projetos, publicado pelo PMI. 
 
 **PMI (Project Management Institute)**: é o Instituto de Gerenciamento de Projetos, uma organização internacional que estabelece padrões e certificações em gerenciamento de projetos.
