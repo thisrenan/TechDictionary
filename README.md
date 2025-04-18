@@ -37,6 +37,11 @@ Descomplicando as siglas e termos de tecnologia.
 **PO (Product Owner)**: é o profissional que transformar as necessidades do cliente em objetivos claros para as equipes técnicas do projeto.
 
 
+## Projetos
+
+**EAP (Estrutura Analítica do Projeto)**: É o detalhamento hierárquico do escopo do projeto a ser executado. Consiste em identificar todas as atividades que serão feitas e esquematizar a relação entre as mesmas de modo a representar o projeto como um todo, desde o seu objetivo final até as tarefas mais básicas.
+
+
 ## Devops
 
 **Deploy**: processo de colocar um software em um ambiente específico, como de teste ou produção.
