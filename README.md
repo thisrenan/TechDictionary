@@ -41,6 +41,8 @@ Descomplicando as siglas e termos de tecnologia.
 
 **EAP (Estrutura Analítica do Projeto)**: É o detalhamento hierárquico do escopo do projeto a ser executado. Consiste em identificar todas as atividades que serão feitas e esquematizar a relação entre as mesmas de modo a representar o projeto como um todo, desde o seu objetivo final até as tarefas mais básicas.
 
+**Stakeholders**: Pessoas, empresas, patrocinadores, organizações executoras e o público (população), que estejam ativamente envolvidas no projeto ou que  possam ser afetados de forma positiva ou negativa pela execução ou término do projeto. Os stakeholders podem ter influência sobre o projeto e suas entregas.
+
 
 ## Devops
 
