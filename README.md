@@ -43,11 +43,13 @@ Descomplicando as siglas e termos de tecnologia.
 
 **Brainstorm**: Exercício criativo no qual se solicita aos participantes que expressem rapidamente suas ideias sobre um tema ou uma pergunta definida, sem pensar imediatamente nas consequências. O objetivo é ter o maior número de ideias acerca de um determinado assunto, sem limitar se são boas ou ruins enquanto os participantes expõem suas opiniões.
 
+**Budget**: é o valor monetário previsto pelo patrocinador do projeto que será destinado a execução do mesmo. Geralmente o budget é o somatório dos custos identificados em cada atividade da EAP.
+
+**Curva S**: Representação gráfica dos custos, horas trabalhadas ou outras quantidades acumuladas colocada em função do tempo.  Seu nome se da pelo formato do gráfico formado ser similar à letra S, reproduzido por um projeto que se inicia e consome recursos lentamente, acelera no seu desenvolvimento e depois reduz seu ritmo próximo ao fim.
+
 **EAP (Estrutura Analítica do Projeto)**: É o detalhamento hierárquico do escopo do projeto a ser executado. Consiste em identificar todas as atividades que serão feitas e esquematizar a relação entre as mesmas de modo a representar o projeto como um todo, desde o seu objetivo final até as tarefas mais básicas.
 
 **Stakeholders**: Pessoas, empresas, patrocinadores, organizações executoras e o público (população), que estejam ativamente envolvidas no projeto ou que  possam ser afetados de forma positiva ou negativa pela execução ou término do projeto. Os stakeholders podem ter influência sobre o projeto e suas entregas.
-
-**Budget**: é o valor monetário previsto pelo patrocinador do projeto que será destinado a execução do mesmo. Geralmente o budget é o somatório dos custos identificados em cada atividade da EAP.
 
 
 ## Devops
