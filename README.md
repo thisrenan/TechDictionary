@@ -111,3 +111,7 @@ O RabbitMQ é adequado para: Agendamento de tarefas, Filas de trabalho, Mensagen
 **Slice**: list.
 
 **Sync.WaitGroup**: await em grupo do golang, aguarda todos os processos assíncronos finalizar para continuar.
+
+## Hardware
+
+**RFID (Radio Frequency Identification)**: é uma tecnologia que usa ondas de rádio para identificar e rastrear objetos, pessoas ou animais.
