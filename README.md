@@ -39,25 +39,25 @@ Descomplicando as siglas e termos de tecnologia.
 
 ## Projetos
 
-**Benchmarking**: É a busca por referências que possam conduzir a empresa a um melhor desempenho em determinado projeto. Seu propósito é estimular e facilitar as mudanças organizacionais e a melhorar o desempenho das organizações por meio do aprendizado das melhores práticas conhecidas.
+**Benchmarking**: é a busca por referências que possam conduzir a empresa a um melhor desempenho em determinado projeto. Seu propósito é estimular e facilitar as mudanças organizacionais e a melhorar o desempenho das organizações por meio do aprendizado das melhores práticas conhecidas.
 
-**Brainstorm**: Exercício criativo no qual se solicita aos participantes que expressem rapidamente suas ideias sobre um tema ou uma pergunta definida, sem pensar imediatamente nas consequências. O objetivo é ter o maior número de ideias acerca de um determinado assunto, sem limitar se são boas ou ruins enquanto os participantes expõem suas opiniões.
+**Brainstorm**: exercício criativo no qual se solicita aos participantes que expressem rapidamente suas ideias sobre um tema ou uma pergunta definida, sem pensar imediatamente nas consequências. O objetivo é ter o maior número de ideias acerca de um determinado assunto, sem limitar se são boas ou ruins enquanto os participantes expõem suas opiniões.
 
 **Budget**: é o valor monetário previsto pelo patrocinador do projeto que será destinado a execução do mesmo. Geralmente o budget é o somatório dos custos identificados em cada atividade da EAP.
 
-**Curva S**: Representação gráfica dos custos, horas trabalhadas ou outras quantidades acumuladas colocada em função do tempo.  Seu nome se da pelo formato do gráfico formado ser similar à letra S, reproduzido por um projeto que se inicia e consome recursos lentamente, acelera no seu desenvolvimento e depois reduz seu ritmo próximo ao fim.
+**Curva S**: representação gráfica dos custos, horas trabalhadas ou outras quantidades acumuladas colocada em função do tempo.  Seu nome se da pelo formato do gráfico formado ser similar à letra S, reproduzido por um projeto que se inicia e consome recursos lentamente, acelera no seu desenvolvimento e depois reduz seu ritmo próximo ao fim.
 
-**EAP (Estrutura Analítica do Projeto)**: É o detalhamento hierárquico do escopo do projeto a ser executado. Consiste em identificar todas as atividades que serão feitas e esquematizar a relação entre as mesmas de modo a representar o projeto como um todo, desde o seu objetivo final até as tarefas mais básicas.
+**EAP (Estrutura Analítica do Projeto)**: é o detalhamento hierárquico do escopo do projeto a ser executado. Consiste em identificar todas as atividades que serão feitas e esquematizar a relação entre as mesmas de modo a representar o projeto como um todo, desde o seu objetivo final até as tarefas mais básicas.
 
-**PMBOK (Project Management Body of Knowledge)**: É um guia que define as melhores práticas de gerenciamento de projetos, publicado pelo PMI. 
+**PMBOK (Project Management Body of Knowledge)**: é um guia que define as melhores práticas de gerenciamento de projetos, publicado pelo PMI. 
 
-**PMI (Project Management Institute)**: É o Instituto de Gerenciamento de Projetos, uma organização internacional que estabelece padrões e certificações em gerenciamento de projetos.
+**PMI (Project Management Institute)**: é o Instituto de Gerenciamento de Projetos, uma organização internacional que estabelece padrões e certificações em gerenciamento de projetos.
 
-**PMO (Escritório de Gerenciamento de Projetos)**: Refere-se ao escritório de gerenciamento de projetos, uma estrutura que padroniza processos de gestão de projetos.
+**PMO (Escritório de Gerenciamento de Projetos)**: refere-se ao escritório de gerenciamento de projetos, uma estrutura que padroniza processos de gestão de projetos.
 
-**PMP (Project Management Professional)**: É a certificação profissional reconhecida pelo PMI para gestores de projetos.
+**PMP (Project Management Professional)**: é a certificação profissional reconhecida pelo PMI para gestores de projetos.
 
-**Stakeholders**: Pessoas, empresas, patrocinadores, organizações executoras e o público (população), que estejam ativamente envolvidas no projeto ou que  possam ser afetados de forma positiva ou negativa pela execução ou término do projeto. Os stakeholders podem ter influência sobre o projeto e suas entregas.
+**Stakeholders**: pessoas, empresas, patrocinadores, organizações executoras e o público (população), que estejam ativamente envolvidas no projeto ou que  possam ser afetados de forma positiva ou negativa pela execução ou término do projeto. Os stakeholders podem ter influência sobre o projeto e suas entregas.
 
 
 ## Devops
