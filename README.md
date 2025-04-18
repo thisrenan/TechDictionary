@@ -43,6 +43,8 @@ Descomplicando as siglas e termos de tecnologia.
 
 **Stakeholders**: Pessoas, empresas, patrocinadores, organizações executoras e o público (população), que estejam ativamente envolvidas no projeto ou que  possam ser afetados de forma positiva ou negativa pela execução ou término do projeto. Os stakeholders podem ter influência sobre o projeto e suas entregas.
 
+**Budget**: é o valor monetário previsto pelo patrocinador do projeto que será destinado a execução do mesmo. Geralmente o budget é o somatório dos custos identificados em cada atividade da EAP.
+
 
 ## Devops
 
