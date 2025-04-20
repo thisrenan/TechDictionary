@@ -63,6 +63,8 @@ Descomplicando as siglas e termos de tecnologia.
 
 **Stakeholders**: pessoas, empresas, patrocinadores, organizações executoras e o público (população), que estejam ativamente envolvidas no projeto ou que  possam ser afetados de forma positiva ou negativa pela execução ou término do projeto. Os stakeholders podem ter influência sobre o projeto e suas entregas.
 
+**SWOT**: ferramenta de tomada de decisão que pode ser usada para avaliar necessidades e tomar decisões.
+
 
 ## Devops
 
