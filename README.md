@@ -59,6 +59,8 @@ Descomplicando as siglas e termos de tecnologia.
 
 **PMP (Project Management Professional)**: é a certificação profissional reconhecida pelo PMI para gestores de projetos.
 
+**PPM (Project Portfolio Management)**: é uma abordagem que visa gerenciar e otimizar um conjunto de projetos e programas, alinhando-os com os objetivos estratégicos da organização.
+
 **Stakeholders**: pessoas, empresas, patrocinadores, organizações executoras e o público (população), que estejam ativamente envolvidas no projeto ou que  possam ser afetados de forma positiva ou negativa pela execução ou término do projeto. Os stakeholders podem ter influência sobre o projeto e suas entregas.
 
 
