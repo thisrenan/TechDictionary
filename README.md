@@ -13,6 +13,8 @@ Descomplicando as siglas e termos de tecnologia.
 
 **B2B (business to business)**: é a expressão utilizada para indicar operações entre empresas. A natureza dessa operação pode ser revenda, transformação ou consumo.
 
+**B2C (business to client)**: é a expressão utilizada para indicar operações entre empresa e consumidor final.
+
 **CSR (Client Side Rendering)**: formato de renderização na qual o javascript é renderizado no navegador do cliente.
 
 **DDD (Domain-Driven Design)**: é uma abordagem de desenvolvimento de software que coloca o foco no entendimento profundo de negócios. Em vez de começar pelo código ou pela tecnologia, prioriza-se a compreensão de regras, processos e conceitos da empresa que a aplicação é destinada a atender.
