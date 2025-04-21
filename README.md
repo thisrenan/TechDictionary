@@ -13,6 +13,8 @@ Descomplicando as siglas e termos de tecnologia.
 
 **BACKBONE**: é a rede principal por onde circulam todos os dados de todos os clientes da internet. Serve para conectar as redes locais (como as de operadoras de internet) a servidores externos e entre diferentes regiões, garantindo que a informação possa fluir entre elas sem interrupções, mesmo com grandes volumes de dados.
 
+**BACKUP**: é a cópia de dados de um dispositivo de armazenamento a outro para que possam ser restaurados em caso da perda dos dados originais, o que pode envolver apagamentos acidentais ou corrupção de dados.
+
 **B2B (business to business)**: é a expressão utilizada para indicar operações entre empresas. A natureza dessa operação pode ser revenda, transformação ou consumo.
 
 **B2C (business to client)**: é a expressão utilizada para indicar operações entre empresa e consumidor final.
