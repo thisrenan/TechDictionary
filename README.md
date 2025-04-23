@@ -143,3 +143,5 @@ O RabbitMQ é adequado para: Agendamento de tarefas, Filas de trabalho, Mensagen
 ## C-LEVELS
 
 **CEO (chief executive officer)**: Presidente-executivo ou diretor geral.
+
+**CFO (chief financial officer)**: Diretor financeiro.
