@@ -139,3 +139,7 @@ O RabbitMQ é adequado para: Agendamento de tarefas, Filas de trabalho, Mensagen
 ## Hardware
 
 **RFID (Radio Frequency Identification)**: é uma tecnologia que usa ondas de rádio para identificar e rastrear objetos, pessoas ou animais.
+
+## C-LEVELS
+
+**CEO (chief executive officer)**: Presidente-executivo ou diretor geral.
