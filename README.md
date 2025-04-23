@@ -27,6 +27,8 @@ Descomplicando as siglas e termos de tecnologia.
 
 **CLOCK RATE**: indica a frequência com que o processador de um computador funciona. Seu sistema de medidas é em Hertz (MHz ou GHz, por exemplo).
 
+**CLOUD COMPUTING**: refere-se à utilização da memória e da capacidade de armazenamento e cálculo de computadores e servidores compartilhados e interligados por meio da internet, seguindo o princípio da computação em grade.
+
 **CSR (Client Side Rendering)**: formato de renderização na qual o javascript é renderizado no navegador do cliente.
 
 **DDD (Domain-Driven Design)**: é uma abordagem de desenvolvimento de software que coloca o foco no entendimento profundo de negócios. Em vez de começar pelo código ou pela tecnologia, prioriza-se a compreensão de regras, processos e conceitos da empresa que a aplicação é destinada a atender.
