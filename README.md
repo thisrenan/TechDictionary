@@ -25,6 +25,8 @@ Descomplicando as siglas e termos de tecnologia.
 
 **CACHE**: é um dispositivo de acesso rápido, interno a um sistema, que serve de intermediário entre um operador de um processo e o dispositivo de armazenamento ao qual esse operador acede.
 
+**CLOCK RATE**: indica a frequência com que o processador de um computador funciona. Seu sistema de medidas é em Hertz (MHz ou GHz, por exemplo).
+
 **CSR (Client Side Rendering)**: formato de renderização na qual o javascript é renderizado no navegador do cliente.
 
 **DDD (Domain-Driven Design)**: é uma abordagem de desenvolvimento de software que coloca o foco no entendimento profundo de negócios. Em vez de começar pelo código ou pela tecnologia, prioriza-se a compreensão de regras, processos e conceitos da empresa que a aplicação é destinada a atender.
