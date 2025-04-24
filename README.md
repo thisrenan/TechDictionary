@@ -29,6 +29,8 @@ Descomplicando as siglas e termos de tecnologia.
 
 **CLOUD COMPUTING**: refere-se à utilização da memória e da capacidade de armazenamento e cálculo de computadores e servidores compartilhados e interligados por meio da internet, seguindo o princípio da computação em grade.
 
+**CLUSTER**: consiste em computadores vagamente ou fortemente ligados que trabalham em conjunto para que, em muitos aspectos, eles possam ser vistos como um único sistema.
+
 **CSR (Client Side Rendering)**: formato de renderização na qual o javascript é renderizado no navegador do cliente.
 
 **DDD (Domain-Driven Design)**: é uma abordagem de desenvolvimento de software que coloca o foco no entendimento profundo de negócios. Em vez de começar pelo código ou pela tecnologia, prioriza-se a compreensão de regras, processos e conceitos da empresa que a aplicação é destinada a atender.
