@@ -37,6 +37,8 @@ Descomplicando as siglas e termos de tecnologia.
 
 **DATA LAKE**: é um sistema de armazenamento que permite analisar grandes volumes de dados brutos (em formato nativo). Ele é é composto por várias camadas e componentes que trabalham juntos para fornecer flexibilidade e poder de processamento.
 
+**DATACENTER**: é um ambiente projetado para abrigar servidores e outros componentes como sistemas de armazenamento de dados e ativos de rede.
+
 **CSR (Client Side Rendering)**: formato de renderização na qual o javascript é renderizado no navegador do cliente.
 
 **DDD (Domain-Driven Design)**: é uma abordagem de desenvolvimento de software que coloca o foco no entendimento profundo de negócios. Em vez de começar pelo código ou pela tecnologia, prioriza-se a compreensão de regras, processos e conceitos da empresa que a aplicação é destinada a atender.
