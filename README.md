@@ -41,6 +41,8 @@ Descomplicando as siglas e termos de tecnologia.
 
 **DATACENTER**: é um ambiente projetado para abrigar servidores e outros componentes como sistemas de armazenamento de dados e ativos de rede.
 
+**DASHBOARD**: painéis visuais que centralizam informações importantes para o negócios. Permitem, desta forma, entender o cenário em tempo real e tomar decisões baseadas em informações reais e que estão ocorrendo agora, monitoradas minuto a minuto.
+
 **DBMS ou SGBD**: DBMS é a sigla para data base management system, em português a sigla é SGBD (sistema de gerenciamento de banco de dados).
 
 **DDD (Domain-Driven Design)**: é uma abordagem de desenvolvimento de software que coloca o foco no entendimento profundo de negócios. Em vez de começar pelo código ou pela tecnologia, prioriza-se a compreensão de regras, processos e conceitos da empresa que a aplicação é destinada a atender.
