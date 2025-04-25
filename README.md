@@ -53,6 +53,8 @@ Descomplicando as siglas e termos de tecnologia.
 
 **DNS (Domain Name System)**: é um sistema que gerencia nomes e reconhece seus números de IP para fazer uma conexão. Devido ao DNS pode-se, por exemplo, digitar na barra de endereços do navegador 'www.github.com' para acessar o site ao invés de um IP.
 
+**ELASTIC SEARCH**: é uma ferramenta para buscas de código aberto (opensource) que tem capacidade para tratar de grandes quantidades de dados em tempo real. O servidor de buscas distribuído é baseado em Apache Lucene e desenvolvido em Java, utilizando uma interface comum, JSON sobre https. Entre as principais vantagens da engine de pesquisa full-text estão a disponibilidade de dados em tempo real (near-realtime), a alta disponibilidade para tratar grandes volumes de dados e armazenamento de dados em forma de documentos.
+
 **HTTP (Hypertext Transfer Protocol**: é a base da comunicação na internet e é executado no topo de outras camadas da pilha de protocolos de rede. Ele depende de outros dois protocolos de rede: TCP (Transmission Control Protocol) e IP (Internet Protocol), permite que os usuários vejam o conteúdo e os dados de um site, funciona no modelo computacional cliente-servidor, é usado para buscar recursos como arquivos HTML.
 
 **HTTPS ((Hypertext Transfer Protocol Secure)**: é um protocolo de segurança que protege a comunicação entre um navegador e um site. Ele é uma versão mais segura do HTTP.
