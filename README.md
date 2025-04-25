@@ -17,11 +17,11 @@ Descomplicando as siglas e termos de tecnologia.
 
 **BIG DATA**: é o termo utilizado para definir conjuntos de dados muito grandes ou complexos, que os aplicativos de processamento de dados tradicionais ainda não conseguem lidar. Os desafios desta área incluem: análise, captura, curadoria, pesquisa, compartilhamento, armazenamento, transferência, visualização e informações sobre privacidade dos dados.
 
-**BIOS (basic input output system)**: é um firmware que é executado quando ligamos um computador. Ela inicializa e testa o hardware, permitindo que o sistema operacional seja carregado. É uma interface entre o hardware e o sistema operacional, fornecendo serviços de tempo de execução e controlando a inicialização do computador.
+**BIOS (Basic Input Output System)**: é um firmware que é executado quando ligamos um computador. Ela inicializa e testa o hardware, permitindo que o sistema operacional seja carregado. É uma interface entre o hardware e o sistema operacional, fornecendo serviços de tempo de execução e controlando a inicialização do computador.
 
-**B2B (business to business)**: é a expressão utilizada para indicar operações entre empresas. A natureza dessa operação pode ser revenda, transformação ou consumo.
+**B2B (Business to Business)**: é a expressão utilizada para indicar operações entre empresas. A natureza dessa operação pode ser revenda, transformação ou consumo.
 
-**B2C (business to client)**: é a expressão utilizada para indicar operações entre empresa e consumidor final.
+**B2C (Business to Client)**: é a expressão utilizada para indicar operações entre empresa e consumidor final.
 
 **CACHE**: é um dispositivo de acesso rápido, interno a um sistema, que serve de intermediário entre um operador de um processo e o dispositivo de armazenamento ao qual esse operador acede.
 
@@ -32,6 +32,8 @@ Descomplicando as siglas e termos de tecnologia.
 **CLUSTER**: consiste em computadores vagamente ou fortemente ligados que trabalham em conjunto para que, em muitos aspectos, eles possam ser vistos como um único sistema.
 
 **COOKIES**: são pequenos arquivos que ficam armazenados no computador. Eles são feitos para guardar dados específicos de um cliente ou website, para serem acessados futuramente pelo servidor web de maneira mais rápida.
+
+**CPU (Central Processor Unit)**: é o responsável pelo controle e execução das tarefas do computador, ou seja, é onde todas as operações do computador são processadas.
 
 **CSR (Client Side Rendering)**: formato de renderização na qual o javascript é renderizado no navegador do cliente.
 
