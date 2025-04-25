@@ -35,11 +35,13 @@ Descomplicando as siglas e termos de tecnologia.
 
 **CPU (Central Processor Unit)**: é o responsável pelo controle e execução das tarefas do computador, ou seja, é onde todas as operações do computador são processadas.
 
+**CSR (Client Side Rendering)**: formato de renderização na qual o javascript é renderizado no navegador do cliente.
+
 **DATA LAKE**: é um sistema de armazenamento que permite analisar grandes volumes de dados brutos (em formato nativo). Ele é é composto por várias camadas e componentes que trabalham juntos para fornecer flexibilidade e poder de processamento.
 
 **DATACENTER**: é um ambiente projetado para abrigar servidores e outros componentes como sistemas de armazenamento de dados e ativos de rede.
 
-**CSR (Client Side Rendering)**: formato de renderização na qual o javascript é renderizado no navegador do cliente.
+**DBMS ou SGBD**: DBMS é a sigla para data base management system, em português a sigla é SGBD (sistema de gerenciamento de banco de dados).
 
 **DDD (Domain-Driven Design)**: é uma abordagem de desenvolvimento de software que coloca o foco no entendimento profundo de negócios. Em vez de começar pelo código ou pela tecnologia, prioriza-se a compreensão de regras, processos e conceitos da empresa que a aplicação é destinada a atender.
 
