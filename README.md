@@ -45,6 +45,8 @@ Descomplicando as siglas e termos de tecnologia.
 
 **DEEP LEARNING**: é um conjunto de algoritmos inspirados no funcionamento do cérebro humano e fundamentado em redes neurais profundas.
 
+**DEVOPS**: é uma abordagem que transforma a forma como as empresas desenvolvem e entregam software, tornando-a mais eficiente, rápida e flexível.
+
 **DBMS ou SGBD**: DBMS é a sigla para data base management system, em português a sigla é SGBD (sistema de gerenciamento de banco de dados).
 
 **DDD (Domain-Driven Design)**: é uma abordagem de desenvolvimento de software que coloca o foco no entendimento profundo de negócios. Em vez de começar pelo código ou pela tecnologia, prioriza-se a compreensão de regras, processos e conceitos da empresa que a aplicação é destinada a atender.
@@ -104,7 +106,7 @@ Descomplicando as siglas e termos de tecnologia.
 **SWOT**: ferramenta de tomada de decisão que pode ser usada para avaliar necessidades e tomar decisões.
 
 
-## Devops
+## DevOps
 
 **Deploy**: processo de colocar um software em um ambiente específico, como de teste ou produção.
 
