@@ -57,7 +57,9 @@ Descomplicando as siglas e termos de tecnologia.
 
 **ERP (Enterprise Resource Planning)**: é um sistema de gestão empresarial. Sua função é unificar os sistemas de diversas áreas da empresa, por exemplo, ao invés de cada área utilizar um sistema diferente de gerenciamento de suas atividades, uma solução de ERP é capaz de unificar estas informações, tornando os departamentos integrados.
 
-**ETHERNET**: É um protocolo de conexão para redes locais (LAN) com base no envio de pacotes.
+**ETHERNET**: é um protocolo de conexão para redes locais (LAN) com base no envio de pacotes.
+
+**FIREWALL**: é um dispositivo de uma rede de computadores que tem por objetivo aplicar uma política de segurança a um determinado ponto da rede.
 
 **HTTP (Hypertext Transfer Protocol**: é a base da comunicação na internet e é executado no topo de outras camadas da pilha de protocolos de rede. Ele depende de outros dois protocolos de rede: TCP (Transmission Control Protocol) e IP (Internet Protocol), permite que os usuários vejam o conteúdo e os dados de um site, funciona no modelo computacional cliente-servidor, é usado para buscar recursos como arquivos HTML.
 
