@@ -99,6 +99,8 @@ Descomplicando as siglas e termos de tecnologia.
 
 **EAP (Estrutura Analítica do Projeto)**: é o detalhamento hierárquico do escopo do projeto a ser executado. Consiste em identificar todas as atividades que serão feitas e esquematizar a relação entre as mesmas de modo a representar o projeto como um todo, desde o seu objetivo final até as tarefas mais básicas.
 
+**FTE (Full-Time Equivalent)**: é um método de mensuração do grau de envolvimento de um colaborador nas atividades de uma organização ou unicamente em um determinado projeto.
+
 **Go Live**: é quando um produto ou sistema se torna disponível ao público, seria a data de entrada em produção do sistema desenvolvido.
 
 **PMBOK (Project Management Body of Knowledge)**: é um guia que define as melhores práticas de gerenciamento de projetos, publicado pelo PMI. 
