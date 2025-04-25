@@ -51,6 +51,8 @@ Descomplicando as siglas e termos de tecnologia.
 
 **DDD (Domain-Driven Design)**: é uma abordagem de desenvolvimento de software que coloca o foco no entendimento profundo de negócios. Em vez de começar pelo código ou pela tecnologia, prioriza-se a compreensão de regras, processos e conceitos da empresa que a aplicação é destinada a atender.
 
+**DNS (Domain Name System)**: é um sistema que gerencia nomes e reconhece seus números de IP para fazer uma conexão. Devido ao DNS pode-se, por exemplo, digitar na barra de endereços do navegador 'www.github.com' para acessar o site ao invés de um IP.
+
 **HTTP (Hypertext Transfer Protocol**: é a base da comunicação na internet e é executado no topo de outras camadas da pilha de protocolos de rede. Ele depende de outros dois protocolos de rede: TCP (Transmission Control Protocol) e IP (Internet Protocol), permite que os usuários vejam o conteúdo e os dados de um site, funciona no modelo computacional cliente-servidor, é usado para buscar recursos como arquivos HTML.
 
 **HTTPS ((Hypertext Transfer Protocol Secure)**: é um protocolo de segurança que protege a comunicação entre um navegador e um site. Ele é uma versão mais segura do HTTP.
