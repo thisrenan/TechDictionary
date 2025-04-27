@@ -61,6 +61,8 @@ Descomplicando as siglas e termos de tecnologia.
 
 **FIREWALL**: é um dispositivo de uma rede de computadores que tem por objetivo aplicar uma política de segurança a um determinado ponto da rede.
 
+**HADOOP**: é uma arquitetura em cluster de software de código livre (open source) para armazenamento e processamento distribuído de grandes volumes de dados.
+
 **HTTP (Hypertext Transfer Protocol**: é a base da comunicação na internet e é executado no topo de outras camadas da pilha de protocolos de rede. Ele depende de outros dois protocolos de rede: TCP (Transmission Control Protocol) e IP (Internet Protocol), permite que os usuários vejam o conteúdo e os dados de um site, funciona no modelo computacional cliente-servidor, é usado para buscar recursos como arquivos HTML.
 
 **HTTPS ((Hypertext Transfer Protocol Secure)**: é um protocolo de segurança que protege a comunicação entre um navegador e um site. Ele é uma versão mais segura do HTTP.
@@ -170,9 +172,11 @@ O RabbitMQ é adequado para: Agendamento de tarefas, Filas de trabalho, Mensagen
 
 **Sync.WaitGroup**: await em grupo do golang, aguarda todos os processos assíncronos finalizar para continuar.
 
+
 ## Hardware
 
 **RFID (Radio Frequency Identification)**: é uma tecnologia que usa ondas de rádio para identificar e rastrear objetos, pessoas ou animais.
+
 
 ## C-LEVELS
 
