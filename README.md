@@ -71,6 +71,8 @@ Descomplicando as siglas e termos de tecnologia.
 
 **INTRANET**: é a rede interna de computadores de uma empresa.
 
+**IOT (Internet of Things)**: refere-se à rede de objetos físicos que estão conectados à internet, permitindo a troca de dados e a automatização. Esses dispositivos, equipados com sensores, software e outras tecnologias, podem coletar e transmitir informações, facilitando a comunicação e a automação em diversas áreas.
+
 **POO**: sigla para Programação Orientada a Objetos, um paradigma de programação que se baseia na criação de objetos. A POO é uma forma de organizar e escrever software, aproximando o mundo virtual do mundo real.
 
 **REST (Representational State Transfer)**: é um modelo de arquitetura de software que define padrões para a comunicação entre sistemas da web. Utilização semântica dos métodos HTTP (GET, POST, PUT e DELETE), leveza dos pacotes de dados transmitidos na rede, simplicidade, interações stateless e cacheabilidade das respostas.
