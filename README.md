@@ -77,6 +77,8 @@ Descomplicando as siglas e termos de tecnologia.
 
 **LAAS (License as a Service)**: uma modalidade de comercialização onde o cliente adquire em definitivo as licenças de determinado software.
 
+**MACHINE LEARNING**: é uma área da inteligência artificial que permite que sistemas aprendam e melhorem a partir de experiências sem serem explicitamente programados para isso. Utilizando grandes conjuntos de dados e algoritmos que podem identificar padrões e fazer previsões, o machine learning habilita computadores a realizar tarefas complexas, como reconhecimento de voz ou análise de imagens, de maneira cada vez mais eficiente e autônoma. Essa capacidade de aprendizado e adaptação está transformando diversas indústrias, desde a saúde até a tecnologia financeira, oferecendo soluções mais personalizadas e inteligentes.
+
 **POO**: sigla para Programação Orientada a Objetos, um paradigma de programação que se baseia na criação de objetos. A POO é uma forma de organizar e escrever software, aproximando o mundo virtual do mundo real.
 
 **REST (Representational State Transfer)**: é um modelo de arquitetura de software que define padrões para a comunicação entre sistemas da web. Utilização semântica dos métodos HTTP (GET, POST, PUT e DELETE), leveza dos pacotes de dados transmitidos na rede, simplicidade, interações stateless e cacheabilidade das respostas.
