@@ -75,6 +75,8 @@ Descomplicando as siglas e termos de tecnologia.
 
 **LAN (Local Area Network)**: é uma rede local que tem por finalidade a troca de dados dentro um mesmo espaço físico. O limitador da rede LAN é uma faixa de IP restrita à mesma, com uma máscara de rede comum.
 
+**LAAS (License as a Service)**: uma modalidade de comercialização onde o cliente adquire em definitivo as licenças de determinado software.
+
 **POO**: sigla para Programação Orientada a Objetos, um paradigma de programação que se baseia na criação de objetos. A POO é uma forma de organizar e escrever software, aproximando o mundo virtual do mundo real.
 
 **REST (Representational State Transfer)**: é um modelo de arquitetura de software que define padrões para a comunicação entre sistemas da web. Utilização semântica dos métodos HTTP (GET, POST, PUT e DELETE), leveza dos pacotes de dados transmitidos na rede, simplicidade, interações stateless e cacheabilidade das respostas.
