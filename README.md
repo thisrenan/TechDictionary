@@ -81,6 +81,8 @@ Descomplicando as siglas e termos de tecnologia.
 
 **M2M (Machine to Machine)**: é a tecnologia que permite que qualquer objeto transmita dados através de um sensor. Esse sensor captura dados como geolocalização, temperatura, e outros, e os envia por meio de uma rede a um software.
 
+**MAINFRAME**: é um computador de grande porte, com foco no processamento de um grande volume de informações.
+
 **POO**: sigla para Programação Orientada a Objetos, um paradigma de programação que se baseia na criação de objetos. A POO é uma forma de organizar e escrever software, aproximando o mundo virtual do mundo real.
 
 **REST (Representational State Transfer)**: é um modelo de arquitetura de software que define padrões para a comunicação entre sistemas da web. Utilização semântica dos métodos HTTP (GET, POST, PUT e DELETE), leveza dos pacotes de dados transmitidos na rede, simplicidade, interações stateless e cacheabilidade das respostas.
