@@ -87,6 +87,8 @@ Descomplicando as siglas e termos de tecnologia.
 
 **MySQL**: é um SGBD (sistema de gestão de banco de dados) que utiliza a linguagem SQL como interface.
 
+**MS SQL**: O Microsoft SQL Server é um SGDB desenvolvido pela Microsoft.
+
 **POO**: sigla para Programação Orientada a Objetos, um paradigma de programação que se baseia na criação de objetos. A POO é uma forma de organizar e escrever software, aproximando o mundo virtual do mundo real.
 
 **REST (Representational State Transfer)**: é um modelo de arquitetura de software que define padrões para a comunicação entre sistemas da web. Utilização semântica dos métodos HTTP (GET, POST, PUT e DELETE), leveza dos pacotes de dados transmitidos na rede, simplicidade, interações stateless e cacheabilidade das respostas.
