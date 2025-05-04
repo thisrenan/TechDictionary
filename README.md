@@ -91,6 +91,8 @@ Descomplicando as siglas e termos de tecnologia.
 
 **MTTR (Mean Time To Repair)**: é a média de tempo que se leva para executar um reparo após a ocorrência da falha. Ou seja, é o tempo gasto durante a intervenção em um determinado processo.
 
+**MTBF (Mean Time Between Failures)**: uma métrica que diz respeito à média de tempo decorrido entre uma falha e a próxima vez que ela ocorrerá.
+
 **POO**: sigla para Programação Orientada a Objetos, um paradigma de programação que se baseia na criação de objetos. A POO é uma forma de organizar e escrever software, aproximando o mundo virtual do mundo real.
 
 **REST (Representational State Transfer)**: é um modelo de arquitetura de software que define padrões para a comunicação entre sistemas da web. Utilização semântica dos métodos HTTP (GET, POST, PUT e DELETE), leveza dos pacotes de dados transmitidos na rede, simplicidade, interações stateless e cacheabilidade das respostas.
