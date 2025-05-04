@@ -93,6 +93,8 @@ Descomplicando as siglas e termos de tecnologia.
 
 **MTBF (Mean Time Between Failures)**: uma métrica que diz respeito à média de tempo decorrido entre uma falha e a próxima vez que ela ocorrerá.
 
+**NFC (Near Field Communication)**: é uma tecnologia de comunicação sem fio que permite a troca de dados entre dispositivos próximos, geralmente dentro de alguns centímetros. É amplamente utilizada para pagamentos por aproximação, mas também pode ser usada para outras finalidades como transferência de arquivos e acesso a dispositivos.
+
 **POO**: sigla para Programação Orientada a Objetos, um paradigma de programação que se baseia na criação de objetos. A POO é uma forma de organizar e escrever software, aproximando o mundo virtual do mundo real.
 
 **REST (Representational State Transfer)**: é um modelo de arquitetura de software que define padrões para a comunicação entre sistemas da web. Utilização semântica dos métodos HTTP (GET, POST, PUT e DELETE), leveza dos pacotes de dados transmitidos na rede, simplicidade, interações stateless e cacheabilidade das respostas.
