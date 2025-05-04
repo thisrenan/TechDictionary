@@ -89,6 +89,8 @@ Descomplicando as siglas e termos de tecnologia.
 
 **MS SQL**: O Microsoft SQL Server é um SGDB desenvolvido pela Microsoft.
 
+**MTTR (Mean Time To Repair)**: é a média de tempo que se leva para executar um reparo após a ocorrência da falha. Ou seja, é o tempo gasto durante a intervenção em um determinado processo.
+
 **POO**: sigla para Programação Orientada a Objetos, um paradigma de programação que se baseia na criação de objetos. A POO é uma forma de organizar e escrever software, aproximando o mundo virtual do mundo real.
 
 **REST (Representational State Transfer)**: é um modelo de arquitetura de software que define padrões para a comunicação entre sistemas da web. Utilização semântica dos métodos HTTP (GET, POST, PUT e DELETE), leveza dos pacotes de dados transmitidos na rede, simplicidade, interações stateless e cacheabilidade das respostas.
