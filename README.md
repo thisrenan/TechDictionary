@@ -99,6 +99,8 @@ Descomplicando as siglas e termos de tecnologia.
 
 **POO**: sigla para Programação Orientada a Objetos, um paradigma de programação que se baseia na criação de objetos. A POO é uma forma de organizar e escrever software, aproximando o mundo virtual do mundo real.
 
+**QUERY**: é o processo de extração de dados de um banco de dados e sua apresentação em uma forma adequada ao uso.
+
 **REST (Representational State Transfer)**: é um modelo de arquitetura de software que define padrões para a comunicação entre sistemas da web. Utilização semântica dos métodos HTTP (GET, POST, PUT e DELETE), leveza dos pacotes de dados transmitidos na rede, simplicidade, interações stateless e cacheabilidade das respostas.
 
 **SOAP (Simple Object Access Protocol)**: é um protocolo padrão que permite a comunicação entre aplicações desenvolvidas em diferentes linguagens e plataformas, é baseado em XML e é usado para implementar serviços web, é transportado principalmente via HTTP, mas também pode ser transportado via outros protocolos, como SMTP e FTP.
