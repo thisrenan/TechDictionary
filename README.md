@@ -107,6 +107,8 @@ Descomplicando as siglas e termos de tecnologia.
 
 **SAAS (Software as a Service)**: é uma forma de comercialização de software onde o fornecedor se responsabiliza por toda a estrutura necessária para a disponibilização do sistema.
 
+**SQL (Structured Query Language)**: é a linguagem de pesquisa declarativa padrão para banco de dados relacional.
+
 **SOAP (Simple Object Access Protocol)**: é um protocolo padrão que permite a comunicação entre aplicações desenvolvidas em diferentes linguagens e plataformas, é baseado em XML e é usado para implementar serviços web, é transportado principalmente via HTTP, mas também pode ser transportado via outros protocolos, como SMTP e FTP.
 
 **SSG (Static Site Generation) ou Pré-Render**: é um formato de renderização em que as páginas da aplicação são renderizadas na fase de build da aplicação e com isso, é possível usar qualquer servidor de páginas estáticas (Vercel, Netlify, Github Pages...) para disponibilizar seu conteúdo.
