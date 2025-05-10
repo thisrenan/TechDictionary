@@ -119,6 +119,8 @@ Descomplicando as siglas e termos de tecnologia.
 
 **UX (User Experience)**: é a preocupação dos designers e desenvolvedores em criar aplicações pensadas na visão e utilização de seus usuários.
 
+**URL (Uniform Resource Locator)**: forma padronizada de representação de diferentes documentos, mídia e serviços de rede na internet, capaz de fornecer a cada documento um endereço único.
+
 
 ## Produtos
 
