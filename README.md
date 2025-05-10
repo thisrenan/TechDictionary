@@ -117,6 +117,8 @@ Descomplicando as siglas e termos de tecnologia.
 
 **TDD (Test Driven Development)**: desenvolvimento baseado em testes.
 
+**UX (User Experience)**: é a preocupação dos designers e desenvolvedores em criar aplicações pensadas na visão e utilização de seus usuários.
+
 
 ## Produtos
 
