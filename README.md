@@ -121,6 +121,7 @@ Descomplicando as siglas e termos de tecnologia.
 
 **URL (Uniform Resource Locator)**: forma padronizada de representação de diferentes documentos, mídia e serviços de rede na internet, capaz de fornecer a cada documento um endereço único.
 
+**VM (Virtual Machine)**: consiste em um software de ambiente computacional, que executa programas como um computador real, também chamado de processo de virtualização.
 
 ## Produtos
 
