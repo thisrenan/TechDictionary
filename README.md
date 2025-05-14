@@ -123,6 +123,9 @@ Descomplicando as siglas e termos de tecnologia.
 
 **VM (Virtual Machine)**: consiste em um software de ambiente computacional, que executa programas como um computador real, também chamado de processo de virtualização.
 
+**VPN (Virtual private network)**: é uma rede de comunicação privada. Por fornecerem autenticação e confidencialidade na transmissão de dados, além de protocolos criptografados por tunelamento, as VPNs tornam-se mais seguras e confiáveis nas comunicações.
+
+
 ## Produtos
 
 **Metodologias ágeis**: forma de gerir projetos que prioriza a flexibilidade, a colaboração e a entrega contínua de valor.
