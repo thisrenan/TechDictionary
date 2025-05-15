@@ -127,6 +127,8 @@ Descomplicando as siglas e termos de tecnologia.
 
 **XML (Extensible Markup Language)**: é uma linguagem de marcação capaz de descrever diversos tipos de dados. É um dos subtipos da SGML (standard generalized markup language) e sua principal finalidade é facilitar o compartilhamento de informações através da internet. Uma das características fundamentais do XML é possibilitar a criação de uma infraestrutura única para diversas linguagens, facilitando a definição de linguagens desconhecidas.
 
+**WAN (Wide Area Network)**: é uma rede de computadores que cobre uma área extensa como uma universidade, cidade, estado ou até mesmo um país.
+
 
 ## Produtos
 
