@@ -125,6 +125,8 @@ Descomplicando as siglas e termos de tecnologia.
 
 **VPN (Virtual private network)**: é uma rede de comunicação privada. Por fornecerem autenticação e confidencialidade na transmissão de dados, além de protocolos criptografados por tunelamento, as VPNs tornam-se mais seguras e confiáveis nas comunicações.
 
+**XML (Extensible Markup Language)**: é uma linguagem de marcação capaz de descrever diversos tipos de dados. É um dos subtipos da SGML (standard generalized markup language) e sua principal finalidade é facilitar o compartilhamento de informações através da internet. Uma das características fundamentais do XML é possibilitar a criação de uma infraestrutura única para diversas linguagens, facilitando a definição de linguagens desconhecidas.
+
 
 ## Produtos
 
