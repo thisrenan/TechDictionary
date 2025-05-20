@@ -115,6 +115,8 @@ Descomplicando as siglas e termos de tecnologia.
 
 **SSR (Server Side Rendering)**: formato de renderização na qual o javascript é processado no servidor e o navegador recebe todo o resultado já renderizado.
 
+**TCP/IP**: é um conjunto de protocolos de comunicação entre computadores em rede. Seu nome vem de dois protocolos: o TCP (transmission control protocol – protocolo de controle de transmissão) e o IP (internet protocol – protocolo de internet). O conjunto de protocolos pode ser visto como um modelo de camadas, onde cada camada é responsável por um grupo de tarefas, fornecendo um conjunto de serviços bem definidos para o protocolo da camada superior.
+
 **TDD (Test Driven Development)**: desenvolvimento baseado em testes.
 
 **UX (User Experience)**: é a preocupação dos designers e desenvolvedores em criar aplicações pensadas na visão e utilização de seus usuários.
