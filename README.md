@@ -241,3 +241,5 @@ O RabbitMQ é adequado para: Agendamento de tarefas, Filas de trabalho, Mensagen
 **CMO (chief marketing officer)**: Diretor de marketing.
 
 **CTO (chief technical officer)**: Diretor de tecnologia ou diretor técnico.
+
+**CHRO (chief human resources officer**: Diretor de recursos humanos.
