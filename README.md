@@ -239,3 +239,5 @@ O RabbitMQ é adequado para: Agendamento de tarefas, Filas de trabalho, Mensagen
 **COO (chief operation officer)**: Diretor operacional.
 
 **CMO (chief marketing officer)**: Diretor de marketing.
+
+**CTO (chief technical officer)**: Diretor de tecnologia ou diretor técnico.
