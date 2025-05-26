@@ -237,3 +237,5 @@ O RabbitMQ é adequado para: Agendamento de tarefas, Filas de trabalho, Mensagen
 **CFO (chief financial officer)**: Diretor financeiro.
 
 **COO (chief operation officer)**: Diretor operacional.
+
+**CMO (chief marketing officer)**: Diretor de marketing.
