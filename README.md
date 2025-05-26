@@ -242,4 +242,6 @@ O RabbitMQ é adequado para: Agendamento de tarefas, Filas de trabalho, Mensagen
 
 **CTO (chief technical officer)**: Diretor de tecnologia ou diretor técnico.
 
-**CHRO (chief human resources officer**: Diretor de recursos humanos.
+**CHRO (chief human resources officer)**: Diretor de recursos humanos.
+
+**CISO (chief information security officer)**: Diretor da segurança de dados e informações dentro da empresa.
